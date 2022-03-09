@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World! 👋
+
+Sou desenvolvedor Front end, formado em Ciência da Computação pela Universidade Paulista. Minha Stack é JavaScript e React JS.
 
 <!--
 **Guilherme-Turri/Guilherme-Turri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
