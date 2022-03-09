@@ -1,6 +1,14 @@
 ### Hello World! 👋
 
-Sou desenvolvedor Front end, formado em Ciência da Computação pela Universidade Paulista. Minha Stack atual é JavaScript e React JS.
+Sou desenvolvedor Front end, formado em Ciência da Computação pela Universidade Paulista. 
+
+Atualmente estudando JavaScript e React JS!
+
+## ⚙️ &nbsp;Meu Github:
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Turri&show_icons=true&theme=vision-friendly-dark" alt="Guilherme-Turri´s stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Turri&layout=compact&theme=vision-friendly-dark" alt="Guilherme-Turri´s most languages"/>
+</p>
 
 <!--
 **Guilherme-Turri/Guilherme-Turri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
