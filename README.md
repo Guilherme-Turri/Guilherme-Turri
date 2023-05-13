@@ -2,7 +2,7 @@
 
 Sou desenvolvedor Front end, formado em Ciência da Computação pela Universidade Paulista. 
 
-Stack: JavaScript, TypeScript, ReactJS, Redux.
+Stack: JavaScript, TypeScript, ReactJS, Redux, Jest.
 
 ## ⚙️ &nbsp;Meu Github:
 <p align="left">
