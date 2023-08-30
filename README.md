@@ -1,10 +1,10 @@
 ### Hello World! 👋
 
-Sou desenvolvedor Front end, formado em Ciência da Computação pela Universidade Paulista. 
+Hi! I'm a Developer
 
-Stack: JavaScript, TypeScript, ReactJS, Redux, Jest.
+Stack: JavaScript | TypeScript | React JS | Redux | Jest | StoryBook| Python
 
-## ⚙️ &nbsp;Meu Github:
+## ⚙️ &nbsp;My Github:
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Turri&show_icons=true&theme=vision-friendly-dark" alt="Guilherme-Turri´s stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Turri&layout=compact&theme=vision-friendly-dark" alt="Guilherme-Turri´s most languages"/>
