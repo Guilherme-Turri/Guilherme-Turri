@@ -2,7 +2,7 @@
 
 Hi! I'm a Developer
 
-Stack: JavaScript | TypeScript | React JS | Redux | Jest | StoryBook| Python
+Stack: JavaScript | TypeScript | React JS | Redux | Jest | StoryBook | Python
 
 ## ⚙️ &nbsp;My Github:
 <p align="left">
