@@ -2,7 +2,11 @@
 
 Hi! I'm a Developer
 
-Stack: JavaScript | TypeScript | React JS | Redux | Jest | StoryBook | Python
+Stack Front End: JavaScript, TypeScript, React JS, Redux, Jest, StyledComponents, Storybook.
+
+Stack Back End: NodeJs, Express, TypeScript, MongoDB/Mongoose, SQL
+
+Stack Dados: Python, Pandas, MatplotLib, BeautifulSoup, Selenium, Tesseract, GeoPy, Folium.
 
 ## ⚙️ &nbsp;My Github:
 <p align="left">
